@@ -1,6 +1,4 @@
-package designPatterns.state.player1;
-
-import java.lang.ref.WeakReference;
+package designPatterns.singleton.player1;
 
 public class Gracz
 {
